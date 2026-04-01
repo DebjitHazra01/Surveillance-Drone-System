@@ -1,0 +1,7 @@
+Place drone prototype photos here.
+
+Example:
+- Drone hardware setup
+- Camera module
+- Flight testing images
+- Surveillance screenshots

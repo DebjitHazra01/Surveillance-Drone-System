@@ -1,0 +1,9 @@
+Component,Quantity,Purpose
+Drone Frame,1,Structure of the drone
+Brushless Motor,4,Provides lift
+ESC (Electronic Speed Controller),4,Controls motor speed
+Flight Controller (Pixhawk/KK2.1),1,Main control system
+Li-Po Battery,1,Power supply
+Propellers,4,Generates thrust
+FPV Camera Module,1,Surveillance video capture
+GPS Module,1,Location tracking

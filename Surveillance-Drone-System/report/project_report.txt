@@ -1,0 +1,15 @@
+Surveillance Drone System
+
+Abstract:
+This project presents a surveillance drone capable of monitoring large areas from the air using a camera system.
+
+Working Principle:
+The drone uses brushless motors controlled by ESCs and a flight controller to maintain stable flight. A camera module captures real-time video which can be transmitted to a ground station.
+
+Applications:
+- Border surveillance
+- Disaster monitoring
+- Traffic monitoring
+- Security patrol
+
+Author: Debjit Hazra

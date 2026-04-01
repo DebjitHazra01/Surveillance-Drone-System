@@ -1,0 +1,8 @@
+Drone Connection Overview
+
+1. Brushless motors are connected to ESCs.
+2. ESCs are connected to the flight controller.
+3. Flight controller controls motor speed and stabilization.
+4. FPV camera module is connected for live video surveillance.
+5. Li-Po battery supplies power to the entire system.
+6. GPS module provides location tracking.
